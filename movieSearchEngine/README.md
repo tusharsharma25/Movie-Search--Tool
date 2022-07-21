@@ -1,6 +1,6 @@
-## Movies Search Engine
+## Movies Search Tool
 
-A web application to instantly search your favorite movies and web series and get know ratings and release year of it.
+A web application to instantly search your favorite movies and web series .
 
 <h2 align="center">
   <a href="https://movies-searchengine.netlify.app/" target="_blank">Movie Search Engine</a>
@@ -22,13 +22,10 @@ This project was built using these technologies.
 - HTML
 - CSS
 - VsCode
-- Deployed on Netlify
+
 
 ## Features are: 😀
 
 - Search bar to search your favorite movies and web series
 - Responsive website.
 
-### Show your support
-
-Give a ⭐ if you like this website! Fork it and contribute
